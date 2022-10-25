@@ -5,7 +5,14 @@
 
 	<groupId>com.ferrm</groupId>
 	<artifactId>union</artifactId>
+
+	<packaging>pom</packaging>
+
 	<version>1.0.0</version>
+
+	<modules>
+		<module>union-api</module>
+	</modules>
 
 	<name>union</name>
 
